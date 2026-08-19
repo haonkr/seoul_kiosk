@@ -1,0 +1,15 @@
+{
+  "name": "서울특별시 무인발급기 가이드",
+  "short_name": "발급기 가이드",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

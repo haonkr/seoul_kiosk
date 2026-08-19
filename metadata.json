@@ -1,0 +1,6 @@
+{
+  "name": "서울특별시 무인발급기 가이드",
+  "description": "고령자를 위한 노원구청 무인민원발급기 가족관계증명서 발급 단계별 안내 앱입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
